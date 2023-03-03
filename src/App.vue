@@ -4,7 +4,6 @@
     <router-view />
   </div>
 </template>
-
 <script>
 import Navigation from '@/components/Navigation';
 import { firebase, messaging } from './config/FirebaseInit';
