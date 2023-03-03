@@ -1,0 +1,21 @@
+{
+  "name": "360 Degree Bar",
+  "short_name": "360DegreeBar",
+  "icons": [
+    {
+      "src": "./img/icons/flash.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/flash.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./shop-owner",
+  "display": "standalone",
+  "background_color": "#5865f6",
+  "theme_color": "#5865f6",
+  "gcm_sender_id": "833764220183"
+}

@@ -1,0 +1,1 @@
+LOCATION=us-central1 PROJECT_ID=flash-mall-ed921 ALGOLIA_APP_ID=FV3R4U6TPY ALGOLIA_API_KEY=9c92c66aac27be53e767d1063dde29a6 ALGOLIA_INDEX_NAME=flashmall-search COLLECTION_PATH={city_id}/{shop_id}/products FIELDS=itemName,barcode,type,time GOOGLE_APPLICATION_CREDENTIALS=./service-account.json npx firestore-algolia-search
